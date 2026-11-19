@@ -1,3 +1,6 @@
+// Vice Heat Cover Lab: a multi-panel GTA-style cover art maker (7 layouts, 6 colour
+// grades, per-panel crop and position, gradient block lettering with a neon script
+// subtitle, stickers and badges, PNG export in 1920x1080, 1080x1080 and 1080x1350).
 // A working gta6-cover-art-01 entry (Node 22, standard library only): the app is this directory's app/ folder, plain
 // static files a desktop browser loads offline (app/index.html and its ES modules, no library and no network
 // request), and the program hands it in. It copies app/ and screenshots/ from beside this file to /output and writes
